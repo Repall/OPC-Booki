@@ -1,6 +1,6 @@
 # Formation Développeur d'application - HTML & CSS
 
-## Projet 7 : Booki - Créer une page d'accueil d'une agence de voyage avec HTML & CSS
+## Projet 2 : Booki - Créer une page d'accueil d'une agence de voyage avec HTML & CSS
 
 ## Technologies :
 
